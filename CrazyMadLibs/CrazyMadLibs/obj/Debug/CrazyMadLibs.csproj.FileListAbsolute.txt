@@ -1,0 +1,9 @@
+R:\PROg\CrazyMadLibs\CrazyMadLibs\bin\Debug\CrazyMadLibs.exe.config
+R:\PROg\CrazyMadLibs\CrazyMadLibs\obj\Debug\CrazyMadLibs.csprojResolveAssemblyReference.cache
+R:\PROg\CrazyMadLibs\CrazyMadLibs\obj\Debug\CrazyMadLibs.frmCrazyMadLib.resources
+R:\PROg\CrazyMadLibs\CrazyMadLibs\obj\Debug\CrazyMadLibs.Properties.Resources.resources
+R:\PROg\CrazyMadLibs\CrazyMadLibs\obj\Debug\CrazyMadLibs.csproj.GenerateResource.Cache
+R:\PROg\CrazyMadLibs\CrazyMadLibs\bin\Debug\CrazyMadLibs.exe
+R:\PROg\CrazyMadLibs\CrazyMadLibs\bin\Debug\CrazyMadLibs.pdb
+R:\PROg\CrazyMadLibs\CrazyMadLibs\obj\Debug\CrazyMadLibs.exe
+R:\PROg\CrazyMadLibs\CrazyMadLibs\obj\Debug\CrazyMadLibs.pdb
